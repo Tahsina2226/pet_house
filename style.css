@@ -1,0 +1,14 @@
+        .category-btn {
+            background-color: #f0f0f0;
+            color: black;
+            border: 1px solid #ccc;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .category-btn.active {
+            background-color: #0E7A81;
+            color: white;
+            border: 1px solid #0E7A81;
+        }
